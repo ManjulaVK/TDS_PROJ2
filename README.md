@@ -1,2 +1,2 @@
 # TDS_PROJ2
-how to submit raw github link
+Python script that uses an LLM to analyze, visualize, and narrate a story from a dataset.
